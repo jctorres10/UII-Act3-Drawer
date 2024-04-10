@@ -51,7 +51,7 @@ class _ContactsPageState extends State<ContactsPage> {
                 letterSpacing: 2.0,
               ),
             ),
-            const SizedBox(height: 10.0),
+            const SizedBox(height: 10.2),
             Text(
               "$level",
               style: const TextStyle(
