@@ -28,6 +28,6 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/jctorres10/UII-Act3-Drawer/assets/143548160/e4f4a2ef-f501-4aba-9c06-c82b0180093e)
 ![image](https://github.com/jctorres10/UII-Act3-Drawer/assets/143548160/7ddfba5d-9070-4d34-9cac-bd713ff54c78)
 
-![image](https://github.com/jctorres10/UII-Act3-Drawer/assets/143548160/1a8d8b67-da1d-4c57-8374-d4e048d37742)
+
 
 
